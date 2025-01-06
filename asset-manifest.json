@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jeevan-portfolio/static/css/main.58a0c615.css",
+    "main.js": "/jeevan-portfolio/static/js/main.bfcf8584.js",
+    "static/media/HeroImage.jpg": "/jeevan-portfolio/static/media/HeroImage.6d4a694dc66f9fd50c76.jpg",
+    "index.html": "/jeevan-portfolio/index.html",
+    "main.58a0c615.css.map": "/jeevan-portfolio/static/css/main.58a0c615.css.map",
+    "main.bfcf8584.js.map": "/jeevan-portfolio/static/js/main.bfcf8584.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.bfcf8584.js"
+  ]
+}
